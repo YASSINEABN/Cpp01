@@ -4,8 +4,8 @@ int	main(void)
 {
 	Harl k;
 
-	k.complain("debug");
-	k.complain("info");
-	k.complain("warning");
+	k.complain("DEBUG");
+	// k.complain("INFO");
+	// k.complain("WARNING");
 	return (0);
 }
